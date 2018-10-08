@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BB13D85A-8221-4123-82AF-52ED643B6228}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>赤潮灾害损失评估系统</RootNamespace>
+    <AssemblyName>赤潮灾害损失评估系统</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>高清系统桌面图标下载58.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9613899A8273F89095B31D31FF2F13F716CF16ED</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>赤潮灾害损失评估系统_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.UI, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="ESRI.ArcGIS.3DAnalyst, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.ADF.Local, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=x86" />
+    <Reference Include="ESRI.ArcGIS.AxControls, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=x86" />
+    <Reference Include="ESRI.ArcGIS.Carto, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Controls, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Display, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geometry, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.GlobeCore, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Output, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.System, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.SystemUI, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Version, Version=10.0.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Form.Designer.cs">
+      <DependentUpon>About_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Breeding_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Breeding_Form.Designer.cs">
+      <DependentUpon>Breeding_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Disposing_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disposing_Form.Designer.cs">
+      <DependentUpon>Disposing_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetSymbol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitoring_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitoring_Form.Designer.cs">
+      <DependentUpon>Monitoring_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintActiveview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics_Form.Designer.cs">
+      <DependentUpon>Statistics_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TblResult_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TblResult_Form.Designer.cs">
+      <DependentUpon>TblResult_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Total_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Total_Form.Designer.cs">
+      <DependentUpon>Total_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tourism_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tourism_Form.Designer.cs">
+      <DependentUpon>Tourism_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Welcome_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome_Form.Designer.cs">
+      <DependentUpon>Welcome_Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About_Form.resx">
+      <DependentUpon>About_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Breeding_Form.resx">
+      <DependentUpon>Breeding_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disposing_Form.resx">
+      <DependentUpon>Disposing_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetSymbol.resx">
+      <DependentUpon>GetSymbol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monitoring_Form.resx">
+      <DependentUpon>Monitoring_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintActiveview.resx">
+      <DependentUpon>PrintActiveview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics_Form.resx">
+      <DependentUpon>Statistics_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TblResult_Form.resx">
+      <DependentUpon>TblResult_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Total_Form.resx">
+      <DependentUpon>Total_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tourism_Form.resx">
+      <DependentUpon>Tourism_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Welcome_Form.resx">
+      <DependentUpon>Welcome_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="赤潮灾害损失评估系统_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\新建.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\打开文档.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentNew32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GenericDocument48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GenericDocument256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="esriGeoDatabase">
+      <Guid>{0475BDB1-E5B2-4CA2-9127-B4B1683E70C2}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriOutputExtensions">
+      <Guid>{2231A0FB-E2BE-46F5-B9A6-D149D455DE45}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriServer">
+      <Guid>{18F2FC71-6B30-45B9-B101-037A8B868B66}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DataAdd_B_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_add_high.png" />
+    <None Include="Resources\SEO-icon_副本.png" />
+    <None Include="Resources\add_data.gif" />
+    <None Include="Resources\data_add_48.png" />
+    <None Include="Resources\globe48.png" />
+    <None Include="Resources\data_delete48.png" />
+    <None Include="Resources\setting.png" />
+    <None Include="Resources\Save_blue.png" />
+    <None Include="Resources\fish skeleton blue.png" />
+    <None Include="Resources\bank account.png" />
+    <None Include="Resources\success.png" />
+    <None Include="Resources\养殖.png" />
+    <None Include="Resources\养殖_yuan.png" />
+    <None Include="Resources\养殖02.png" />
+    <None Include="Resources\boat-icon-money.png" />
+    <None Include="Resources\4346-money.png" />
+    <None Include="Resources\4346-money1.png" />
+    <None Include="Resources\sailing-ship-icon-money.png" />
+    <None Include="Resources\steamer-money.png" />
+    <None Include="Resources\SEO-icon.png" />
+    <None Include="Resources\icon48DataQuality01.png" />
+    <None Include="Resources\Currency Dollar.png" />
+    <None Include="Resources\yuan coin.png" />
+    <None Include="Resources\star-full.png" />
+    <None Include="Resources\yen coin.png" />
+    <None Include="Resources\boat-icon-all.png" />
+    <None Include="Resources\Currency Dollar blue.png" />
+    <None Include="Resources\Open_blue.png" />
+    <None Include="Resources\Open_blue1.png" />
+    <None Include="Resources\Open_blue2.png" />
+    <None Include="Resources\open_file.png" />
+    <None Include="Resources\statistics.png" />
+    <None Include="Resources\Maps02.png" />
+    <None Include="Resources\Maps.png" />
+    <None Include="Resources\Map.png" />
+    <None Include="Resources\Maps01.png" />
+    <None Include="Resources\FAQ.png" />
+    <None Include="Resources\help-4.png" />
+    <None Include="Resources\help-3.png" />
+    <None Include="Resources\help48.png" />
+    <None Include="Resources\information48.png" />
+    <None Include="Resources\Help_win8.png" />
+    <None Include="Resources\Info_win8_2.png" />
+    <None Include="Resources\Help48_2.png" />
+    <None Include="Resources\Info48_me.png" />
+    <None Include="Resources\help_2.png" />
+    <None Include="Resources\FAQ1.png" />
+    <None Include="Resources\process-info48.png" />
+    <None Include="Resources\process-info49.png" />
+    <None Include="Resources\process-help48.png" />
+    <None Include="Resources\Maps01_48.png" />
+    <None Include="Resources\help-desk.png" />
+    <None Include="Resources\process-info-48.png" />
+    <None Include="Resources\help-58.png" />
+    <None Include="Resources\help--.png" />
+    <None Include="Resources\help-588.png" />
+    <None Include="Resources\help-599.png" />
+    <None Include="Resources\help--85.png" />
+    <None Include="Resources\help12.png" />
+    <None Include="Resources\help121.png" />
+    <None Include="Resources\初始化界面.jpg" />
+    <None Include="Resources\初始化界面-.jpg" />
+    <None Include="Resources\初始化界面-1.jpg" />
+    <None Include="Resources\printer orange.png" />
+    <None Include="Resources\printer_orange48.png" />
+    <None Include="Resources\02.gif" />
+    <None Include="Resources\初始化界面-无字版.jpg" />
+    <None Include="Resources\高清系统桌面图标下载58.png" />
+    <None Include="Resources\Settings2.png" />
+    <None Include="Resources\Print48.png" />
+    <None Include="Resources\Settings21.png" />
+    <None Include="Resources\Display.png" />
+    <None Include="Resources\Settings216.png" />
+    <None Include="Resources\Display16.png" />
+    <None Include="Resources\Table2.png" />
+    <None Include="Resources\import.png" />
+    <None Include="Resources\export.png" />
+    <None Include="Resources\import-purple.png" />
+    <None Include="Resources\Go Out.png" />
+    <None Include="Resources\Go In.png" />
+    <Content Include="高清系统桌面图标下载58.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

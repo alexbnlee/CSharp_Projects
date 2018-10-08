@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "赤潮灾害损失评估系统", "赤潮灾害损失评估系统\赤潮灾害损失评估系统.csproj", "{BB13D85A-8221-4123-82AF-52ED643B6228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB13D85A-8221-4123-82AF-52ED643B6228}.Debug|x86.ActiveCfg = Debug|x86
+		{BB13D85A-8221-4123-82AF-52ED643B6228}.Debug|x86.Build.0 = Debug|x86
+		{BB13D85A-8221-4123-82AF-52ED643B6228}.Release|x86.ActiveCfg = Release|x86
+		{BB13D85A-8221-4123-82AF-52ED643B6228}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
