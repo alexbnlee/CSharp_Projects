@@ -1,4 +1,3 @@
-*.md linguist-language=C#
 # CSharp_Projects
 Projects created by C#
 
