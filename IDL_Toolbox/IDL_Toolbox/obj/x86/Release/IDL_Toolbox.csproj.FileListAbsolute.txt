@@ -1,0 +1,15 @@
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\bin\Release\IDL_Toolbox.exe.config
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\Interop.COM_IDL_connectLib.dll
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.csproj.ResolveComReference.cache
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\bin\Release\IDL_Toolbox.exe
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\bin\Release\IDL_Toolbox.pdb
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\bin\Release\Interop.COM_IDL_connectLib.dll
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.Frm_clip_data_nc.resources
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.MainForm.resources
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.Properties.Resources.resources
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.Frm_MODIS_data_query.resources
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.exe
+D:\CODE\VC#\IDL_Toolbox\IDL_Toolbox\obj\x86\Release\IDL_Toolbox.pdb

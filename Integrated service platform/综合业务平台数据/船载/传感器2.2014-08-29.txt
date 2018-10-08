@@ -1,0 +1,26 @@
+﻿12:49:06 =>  采集时间：NA，经度：NA，纬度：NA
+12:49:06 =>  Fo = 3，Fm = 3，Fv = 3，Blank Value=0，Yield=1.000痧痧痧
+12:49:55 =>  采集时间：NA，经度：NA，纬度：NA
+12:49:55 =>  Fo = 2，Fm = 4，Fv = 6，Blank Value=0，Yield=1.000痧痧痧
+12:50:36 =>  采集时间：NA，经度：NA，纬度：NA
+12:50:36 =>  Fo = 3，Fm = 6，Fv = 3，Blank Value=0，Yield=1.000痧痧痧
+12:50:50 =>  采集时间：NA，经度：NA，纬度：NA
+12:50:50 =>  Fo = 4，Fm = 3，Fv = 4，Blank Value=0，Yield=1.000痧痧痧
+12:51:20 =>  采集时间：NA，经度：NA，纬度：NA
+12:51:20 =>  Fo = 3，Fm = 3，Fv = 5，Blank Value=0，Yield=1.000痧痧痧
+12:52:30 =>  采集时间：NA，经度：NA，纬度：NA
+12:52:30 =>  Fo = 4，Fm = 5，Fv = 3，Blank Value=0，Yield=1.000痧痧痧
+12:53:51 =>  采集时间：NA，经度：NA，纬度：NA
+12:53:51 =>  Fo = 5，Fm = 4，Fv = 6，Blank Value=0，Yield=1.000痧痧痧
+12:54:22 =>  采集时间：NA，经度：NA，纬度：NA
+12:54:22 =>  Fo = 4，Fm = 3，Fv = 4，Blank Value=0，Yield=1.000痧痧痧
+12:55:26 =>  采集时间：NA，经度：NA，纬度：NA
+12:55:26 =>  Fo = 5，Fm = 2，Fv = 2，Blank Value=0，Yield=1.000痧痧痧
+12:56:27 =>  采集时间：NA，经度：NA，纬度：NA
+12:56:27 =>  Fo = 5，Fm = 3，Fv = 3，Blank Value=0，Yield=1.000痧痧痧
+12:57:28 =>  采集时间：NA，经度：NA，纬度：NA
+12:57:28 =>  Fo = 3，Fm = 8，Fv = 7，Blank Value=10，Yield=1.000痧痧痧
+12:58:29 =>  采集时间：NA，经度：NA，纬度：NA
+12:58:29 =>  Fo = 5，Fm = 4，Fv = 4，Blank Value=0，Yield=1.000痧痧痧
+12:59:30 =>  采集时间：NA，经度：NA，纬度：NA
+12:59:30 =>  Fo = 4，Fm = 5，Fv = 3，Blank Value=0，Yield=1.000痧痧痧

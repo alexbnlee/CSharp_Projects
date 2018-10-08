@@ -1,0 +1,137 @@
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe.licenses
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+E:\开发程序\Debug\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe.licenses
+E:\开发程序\Debug\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.PropertyForm.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.PropertyForm.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe.licenses
+E:\2015\01. 系统开发\20150403 - 信息系统集成\信息系统集成方案 - 副本（彩色底纹\信息系统集成方案\obj\x86\Debug\信息系统集成方案.AboutForm.resources
+D:\2015\01. 系统开发\03. 信息系统集成\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+D:\2015\01. 系统开发\03. 信息系统集成\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+D:\2015\01. 系统开发\03. 信息系统集成\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+D:\2015\01. 系统开发\03. 信息系统集成\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+D:\2015\01. 系统开发\03. 信息系统集成\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.AboutForm.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.PropertyForm.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.GenerateResource.Cache
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+D:\2015\20151130\信息系统集成方案\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+D:\2015\20151030\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+D:\2015\20151030\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+D:\2015\20151030\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+D:\2015\20151030\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+D:\2015\20151030\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.AboutForm.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.PropertyForm.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+F:\360云盘\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.GenerateResource.Cache
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.AboutForm.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.PropertyForm.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\01-工作相关\02-科研工作\20151101-\信息系统集成方案\信息系统集成方案\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\Interop.MSTSCLib.dll
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\AxInterop.MSTSCLib.dll
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.ResolveComReference.cache
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.exe
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.pdb
+D:\01-Working\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.exe
+D:\01-Working\信息系统集成方案\信息系统集成方案\bin\Debug\信息系统集成方案.pdb
+D:\01-Working\信息系统集成方案\信息系统集成方案\bin\Debug\Interop.MSTSCLib.dll
+D:\01-Working\信息系统集成方案\信息系统集成方案\bin\Debug\AxInterop.MSTSCLib.dll
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.AboutForm.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.ChooseForm.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.MainForm.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.PropertyForm.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.TscForm.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.LoginForm.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.Properties.Resources.resources
+D:\01-Working\信息系统集成方案\信息系统集成方案\obj\x86\Debug\信息系统集成方案.csproj.GenerateResource.Cache

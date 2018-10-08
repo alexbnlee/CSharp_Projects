@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "综合业务平台", "综合业务平台\综合业务平台.csproj", "{159BBA85-DBD6-475F-B047-7BE3A27937FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159BBA85-DBD6-475F-B047-7BE3A27937FA}.Debug|x86.ActiveCfg = Debug|x86
+		{159BBA85-DBD6-475F-B047-7BE3A27937FA}.Debug|x86.Build.0 = Debug|x86
+		{159BBA85-DBD6-475F-B047-7BE3A27937FA}.Release|x86.ActiveCfg = Release|x86
+		{159BBA85-DBD6-475F-B047-7BE3A27937FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
